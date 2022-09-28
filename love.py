@@ -21,7 +21,7 @@ def txt():
     pen.setpos(-68,95)
     pen.down()
     pen.color('lightgreen')
-    pen.write("I LOVE YOU PYTHON AND JAVA",font=("Verdana",15,"bold"))
+    pen.write("I LOVE YOU",font=("Verdana",15,"bold"))
 
 heart()
 txt()
